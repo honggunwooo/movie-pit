@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/honggunwooo/movie-pit#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "axios": "^1.8.4",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7",
+    "xlsx": "^0.18.5"
   }
 }
